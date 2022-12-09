@@ -164,3 +164,6 @@ Emoji:
     NAME : Taninwat Phuttichaiwarangkul
 
     STUDENT ID : 642115019
+    NAME : Phiriyakorn Maneekongrit
+
+    STUDENT ID : 642115031
