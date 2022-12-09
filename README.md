@@ -1,3 +1,9 @@
+# INFOMATION #
+
+    NAME : Thanapong Yamkamol
+
+    STUDENT ID : 642115022
+
 Markdown Cheatsheet<a name="TOP"></a>
 ===================
 
