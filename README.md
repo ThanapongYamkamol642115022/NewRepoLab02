@@ -161,3 +161,6 @@ Emoji:
     Markup : Code appears between colons :EMOJICODE:
 
 :mask:
+    NAME : Taninwat Phuttichaiwarangkul
+
+    STUDENT ID : 642115019
